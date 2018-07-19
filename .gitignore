@@ -1,0 +1,44 @@
+######################
+# Mac OSX
+######################
+.DS_Store
+
+######################
+# Intellij
+######################
+.idea/**
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+
+######################
+# Gradle
+######################
+.gradle/**
+gradle/
+
+######################
+# Eclipse
+######################
+*.pydevproject
+.project
+.metadata
+/bin/**
+/tmp/**
+/tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/**
+.loadpath
+
+######################
+# Directories
+######################
+/build/**
+/bin/**
